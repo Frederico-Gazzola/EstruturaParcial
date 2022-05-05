@@ -1,0 +1,2 @@
+# EstruturaParcial
+Pra prova
